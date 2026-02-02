@@ -33,5 +33,16 @@ This project presents Thirukkural as a **digital e-book**, making it easy to rea
 - JavaScript  
 ---
 
-## 📂 Project Structure
+project structure**
+//-------//
+thirukkural-ebook/
+│
+├── index.html
+├── style.css
+├── script.js
+├── kurals/
+│ ├── arathupal.html
+│ ├── porutpal.html
+│ └── kamathupal.html
+└── README.md
 
